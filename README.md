@@ -6,7 +6,7 @@ This is for only educational purpose!
 
 google_search.py helps to search on google and get the result on screen this can be helpful if you are developing voice-based assistant to search on google, this is mainly for the educational purpose rather then the commercial or any.
 
-code explanation given in the google_search.py file itself with comment.
+code explanation given in the google_search.py file itself with comment. you can also search with "what is" keyword.
 
 if you are looking for console base code to get the output on console to check out my code at preyash2047/google_search.
 don't forget to follow.
